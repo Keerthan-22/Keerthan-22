@@ -1,62 +1,186 @@
-<h1 align="center">Hi 👋, I'm Keerthan M</h1>
-<h3 align="center">MCA Student | Python Enthusiast | Cybersecurity & Blockchain Explorer | Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keerthan-22&label=Profile%20views&color=0e75b6&style=flat" alt="keerthan-22" />
+# 👋 Hey there, I'm **Keerthan M**
+
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=MCA+Student+%7C+Python+Enthusiast;Cybersecurity+%26+Blockchain+Explorer;Full+Stack+Web+Developer;Building+Tomorrow's+Solutions" alt="Typing SVG" />
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=keerthan-22&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🚀 **About Me**
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Keerthan M"
+        self.education = "MCA @ RVITM"
+        self.interests = [
+            "Zero Trust Architecture",
+            "Blockchain Technology", 
+            "Custom Security Protocols",
+            "Full-Stack Development"
+        ]
+        self.hobbies = ["Photography", "Gaming", "UI/UX Design"]
+        
+    def current_focus(self):
+        return "Building secure, scalable solutions 🛡️"
+```
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthan-22&bg_color=1a1b27&color=6C63FF&line=38bcf8&point=6C63FF&area=true&hide_border=true" />
+</div>
+
+---
+
+## 💼 **Featured Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 **AISF** 
+*Advanced Intelligent Security Framework*
+
+**Solo Final Year Project**
+- AI-powered security with TensorFlow & YOLO
+- Real-time OCR processing with Tesseract
+- Raspberry Pi deployment with Flask backend
+
+`Python` `Flask` `TensorFlow` `YOLO` `OCR`
+
+</td>
+<td width="50%">
+
+### ⛓️ **Grain Supply Blockchain**
+*Food Traceability Simulation*
+
+**Research & Development**
+- Blockchain-based supply chain tracking
+- Smart contract implementation
+- Transparent food sourcing system
+
+`Python` `Web3` `Solidity` `Blockchain`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 **Encrypted Chat System**
+*Secure Real-time Messaging*
+
+**Network Security Project**
+- End-to-end AES encryption
+- Socket-based real-time communication
+- Secure key exchange protocols
+
+`Python` `Sockets` `AES` `Cryptography`
+
+</td>
+<td width="50%">
+
+### 📊 **E-commerce Analytics**
+*Flipkart Sales Intelligence*
+
+**Data Science Project**
+- Advanced data analytics with pandas
+- ML-driven insights with scikit-learn
+- Interactive visualizations
+
+`Python` `Pandas` `ML` `Jupyter`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,nodejs,nextjs" />
 </p>
 
----
-
-### 🌟 About Me
-
-- 🎓 Currently pursuing **Master of Computer Applications (MCA)** at **RVITM**
-- 💡 Exploring **Zero Trust Architecture, Blockchain**, and **Custom Protocol Design**
-- 💻 Passionate about building **full-stack web apps**, backend tools, and scripting projects
-- 📷 Amateur **photographer**, gamer, and UI enthusiast
-- 🧠 Always learning: **Python, Java, MongoDB, Flask, Node.js, Next.js, AWS**
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **AISF (Advanced Intelligent Security Framework)** | Solo final-year project with TensorFlow, YOLO, OCR, Flask on Raspberry Pi | Python, Flask, Tesseract, YOLO, OLED |
-| **Grain Supply Blockchain Simulation** | Technical seminar on using blockchain for food traceability (simulated project) | Solidity (optional), Python, Web3 |
-| **Encrypted Chat System** | Secure messaging with socket programming and encryption | Python, Sockets, AES |
-| **Flipkart E-commerce Sales Analysis** | Data analytics project using pandas, seaborn, scikit-learn | Python, Jupyter |
-| **Portfolio Site** | Personal website built with HTML/CSS and hosted on GitHub Pages | HTML, CSS, GitHub Pages |
-
----
-
-### 🛠️ Tech & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+### **Databases & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,firebase" />
 </p>
 
----
-
-### 📫 Contact Me
-
-- 📧 **keerthanmithal@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/keerthan-m-773109230/)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthan-22&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthan-22&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthan-22&layout=compact&theme=tokyonight" />
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,raspberrypi,docker,vscode" />
 </p>
+
+</div>
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=keerthan-22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=keerthan-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthan-22&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+## 🌟 **Current Focus**
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🔍 Research] --> B[💡 Innovation]
+    B --> C[🚀 Implementation]
+    C --> D[📊 Analysis]
+    D --> A
+    
+    style A fill:#6C63FF,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#38BCF8,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#fff  
+    style D fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#fff
+```
+
+</div>
+
+**🎯 Learning Path 2024-25**
+- Advanced Zero Trust Security Models
+- Blockchain Protocol Development  
+- AI/ML Integration in Cybersecurity
+- Cloud-Native Application Architecture
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthanmithal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthan-m-773109230/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthan-22)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
+</div>
+
+<div align="center">
+  <b>💡 "Building tomorrow's solutions with today's passion"</b>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=keerthan-22&style=flat-square&color=6C63FF" />
+</div>
