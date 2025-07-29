@@ -21,7 +21,6 @@ class Developer:
         self.education = "MCA @ RVITM"
         self.interests = [
             "Zero Trust Architecture",
-            "Blockchain Technology", 
             "Custom Security Protocols",
             "Full-Stack Development"
         ]
@@ -64,7 +63,7 @@ class Developer:
 - Smart contract implementation
 - Transparent food sourcing system
 
-`Python` `Web3` `Solidity` `Blockchain`
+`Python` `Web3` `Solidity` 
 
 </td>
 </tr>
