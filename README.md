@@ -20,6 +20,7 @@ class Developer:
         self.name = "Keerthan M"
         self.education = "MCA @ RVITM"
         self.interests = [
+            "Cyber Security"
             "Zero Trust Architecture",
             "Custom Security Protocols",
             "Full-Stack Development"
