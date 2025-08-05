@@ -3,7 +3,7 @@
 # 👋 Hey there, I'm **Keerthan M**
 
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=MCA+Student+%7C+Python+Enthusiast;Cybersecurity+%26+Blockchain+Explorer;Full+Stack+Web+Developer;Building+Tomorrow's+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=MCA+Student+%7C+Python+Enthusiast;Cybersecurity;;Full+Stack+Web+Developer;Building+Tomorrow's+Solutions" alt="Typing SVG" />
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=keerthan-22&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
