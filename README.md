@@ -41,7 +41,7 @@ class Developer:
 
 <table>
 <tr>
-<td width="50%">
+<td width="51%">
 
 ### 🤖 **AISF** 
 *Advanced Intelligent Security Framework*
