@@ -79,7 +79,7 @@ class Developer:
 - Socket-based real-time communication
 - Secure key exchange protocols
 
-`Python` `Sockets` `AES` `Cryptography`
+`Python` `AES` `Cryptography`
 
 </td>
 <td width="50%">
