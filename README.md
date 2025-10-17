@@ -71,19 +71,6 @@ class Developer:
 <tr>
 <td width="50%">
 
-### 🔐 **Encrypted Chat System**
-*Secure Real-time Messaging*
-
-**Network Security Project**
-- End-to-end AES encryption
-- Socket-based real-time communication
-- Secure key exchange protocols
-
-`Python` `AES` `Cryptography`
-
-</td>
-<td width="50%">
-
 ### 📊 **E-commerce Analytics**
 *Flipkart Sales Intelligence*
 
