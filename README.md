@@ -98,12 +98,12 @@ class Developer:
 
 ### **Databases & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,raspberrypi,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,raspberrypi,vscode" />
 </p>
 
 </div>
